@@ -1,9 +1,9 @@
 ---
+title: Consulting
 layout: page
 permalink: /consulting/
+exclude: true
 ---
-
-# Consulting
 
 ## Software Development
 
