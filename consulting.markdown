@@ -13,12 +13,12 @@ I'm most familiar with:
 
 - **Frontend**: React, Javascript, GraphQL/REST APIs
 - **Mobile**: iOS (Swift + ObjC), React Native
-- **Backend**: Ruby, Node.js, Java
+- **Backend**: Ruby, Node.js, Java, Kotlin
 
 That said, I'm a strong generalist and have at least some working experience most popular programming languages, databases, and network infrastructures.
 
 ### Pricing
-Pricing varies by project. For most projects I ask a flat weekly rate of $2,500/week for "around 15 hours per week" (works out to ~$166/hr) with no long-term commitments. If it's a very short project which must be billed hourly, or a project where I have domain expertise (financial services, risk/compliance, and travel) I bill a little higher ($195-$205/hr). For projects related to [fastlane](https://fastlane.tools/) (an open-source mobile CI/CD tool I help maintain) I bill less ($130-$140/hr).
+Pricing varies by project. I would love to hear about your project and provide an estimate or a few options. 
 
 ## Engineering Management Coaching
 
