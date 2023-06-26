@@ -5,6 +5,6 @@
 layout: home
 ---
 
-I'm a full-stack software engineer knowledgeable in distributed systems and mobile application development. I have domain experience in financial services (including payments processing, risk, underwriting, card issuing, and global expansion) and travel (airline and hotel), among others.
+## Products 
 
-I'm also the author of the [Look Busy](https://lookbusy.app) mobile app.
+- The [Look Busy](https://lookbusy.app) mobile app
