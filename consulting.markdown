@@ -5,6 +5,15 @@ permalink: /consulting/
 exclude: true
 ---
 
+## Tecnology Advisory / Fractional CTO
+
+- Building a technical roadmap / vision
+- Working with non-technical stakeholders or customers
+- Making a hiring plan for founding engineer(s) and leadership
+- Mentorship / coaching of engineering managers or very senior individual contributors
+
+I have advised several seed-stage and Series A companies, a few traditional small businesses, and a few large enterprise companies.
+
 ## Software Development
 
 I'm generally available on short notice to deliver high quality work in small, fast chunks (most of my projects are about 100–150 hours long, and typically about 10–15 hours/week).
@@ -13,27 +22,10 @@ I'm most familiar with:
 
 - **Frontend**: React, Javascript, GraphQL/REST APIs
 - **Mobile**: iOS (Swift + ObjC), React Native
-- **Backend**: Ruby, Node.js, Java, Kotlin
+- **Backend**: Ruby, Node.js, Python, Java, Kotlin
+- **Data**: ETLs, Airflow/Dagster, SQL, streaming, SFTP/API/scraping
 
 I'm a strong generalist and have working experience with most popular programming languages, databases, and network infrastructures.
-
-## Engineering Management Coaching
-
-I'm available for mentorship / coaching of new engineering managers or individual contributors who want to become engineering managers. I have been in engineering leadership for seven years and managed orgs of 45+ people.
-
-## Writing
-
-I enjoy writing and editing and can provide consulting on content marketing, technical documentation, and more. A few examples:
-
-- [ThoughtWorks: Choosing the right mobile development tools: part one](https://www.thoughtworks.com/insights/blog/choosing-right-mobile-development-tools-part-one)
-- [ThoughtWorks: Choosing the right mobile development tools: part two](https://www.thoughtworks.com/insights/blog/choosing-right-mobile-development-tools-part-two)
-- [Building the Brex API](https://www.brex.com/journal/building-the-brex-api/)
-
-I also enjoy writing on Stack Overflow, especially when I can help beginners grasp a complex concept; I'm in the top 1% of answerers. Examples:
-
-- [Proper Use of `@weakify(self)` and `@strongify(self)`](https://stackoverflow.com/a/29436402/1445366)
-- [How do I update my forked repo using SourceTree?](https://stackoverflow.com/a/13273853/1445366)
-- [Lesser than or greater than in Swift switch statement](https://stackoverflow.com/a/31656822/1445366)
 
 ## Pricing
 
