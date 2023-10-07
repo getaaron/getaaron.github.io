@@ -24,6 +24,7 @@ I'm most familiar with:
 - **Mobile**: iOS (Swift + ObjC), React Native
 - **Backend**: Ruby, Node.js, Python, Java, Kotlin
 - **Data**: ETLs, Airflow/Dagster, SQL, streaming, SFTP/API/scraping
+- **Distributed Systems:** host/cluster orchestration, load balancing, storage (replication / sharding), message queues/event streams, caching, scaling, scheduling, observability, security, etc.
 
 I'm a strong generalist and have working experience with most popular programming languages, databases, and network infrastructures.
 
