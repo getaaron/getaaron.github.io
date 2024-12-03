@@ -29,7 +29,6 @@ url: "https://aaronbrager.com" # the base hostname & protocol for your site, e.g
 theme: minima
 # plugins:
 #   - jekyll-feed
-twitter_username: getaaron
 github_username: getaaron
 stackoverflow_username: "1445366"
 
