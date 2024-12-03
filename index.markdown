@@ -5,7 +5,4 @@
 layout: home
 ---
 
-## Products 
-
-- The [Look Busy](https://lookbusy.app) mobile app
-- [Yield Alarm](https://yieldalarm.com) for notifications of higher rates on Raisin/SaveBetter
+Hi! Not much to see here.
